@@ -34,4 +34,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "You clicked character 4", Toast.LENGTH_SHORT).show();
     }
 
+    //commit test
+
 }
